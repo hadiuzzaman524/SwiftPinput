@@ -3,6 +3,13 @@
 
 `SwiftPinput` is a customizable SwiftUI component for OTP (One-Time Password) input fields. This package allows you to add sleek, user-friendly OTP input fields to your iOS and macOS apps, with various styles and customization options.
 
+
+https://github.com/user-attachments/assets/134ea3f1-c1c1-4cd7-b52e-7eb9b3c51e66
+
+
+
+
+
 ## Features
 
 - Support for different OTP field styles
